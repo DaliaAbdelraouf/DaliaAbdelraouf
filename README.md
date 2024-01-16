@@ -1,6 +1,5 @@
 ### Hi, I’m Dalia 👋🏻
 
-Banner_image.png
 
  I’m a passionate software engineer, just graduated last year with a computer science degree. Currently interested in mobile application development. Working as a Flutter developer. Always looking forward to develop and learn new things. 
 
