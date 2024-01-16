@@ -1,7 +1,7 @@
 ### Hi, I’m Dalia 👋🏻
 
-![header_image](https://github.com/DaliaAbdelraouf/DaliaAbdelraouf/assets/65053223/923d745f-02f4-4a1e-a387-6e640503cf54)
 
+![tenor](https://github.com/DaliaAbdelraouf/DaliaAbdelraouf/assets/65053223/3fa998b3-ae11-44e9-bed2-4ef83e844b1c)
 
 
 🌟 I’m a passionate software engineer. Graduated last year with a computer science degree. Interested in mobile application development and currently working as a Flutter developer. Always looking forward to developing and learning new things. 💻🌐
