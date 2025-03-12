@@ -1,4 +1,4 @@
-### Hi, I’m Dalia 👋🏻
+### Hi, I’m Dalia :)
 
 
 <p align="center">
